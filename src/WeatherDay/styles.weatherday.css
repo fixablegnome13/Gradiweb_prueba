@@ -1,0 +1,49 @@
+
+.divImagen{
+    height: 60vh;
+    width: 90vw;
+    display: flex;
+    justify-content: left;
+    font-weight: bold;
+    font-size: 30px;
+    color: #5948db;
+    border-radius: 30px;
+    background-image: url('https://es.investinbogota.org/sites/default/files/node/news/field_news_imagen/Emprendimientos%20en%20Bogota%CC%81.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 4%;
+}
+
+.divClima{ 
+    position: absolute;
+    top: 20%;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(74, 13, 172);
+    border-radius: 10px 20px 30px;
+    text-align: center;
+    z-index: 3;
+}
+
+.divTemperatura{
+    position: absolute;
+    top: 40%;
+    height: 90px;
+    width: 90px;
+    background-color: rgb(198, 80, 253);
+    border-radius: 10px 20px 30px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 80px;
+    color: white;
+    font-size: 30px;
+    box-shadow: 5px 10px 8px black;
+}
+
+.image{
+    height: 80%;
+    width: 80%;
+    text-align: center;
+}
+

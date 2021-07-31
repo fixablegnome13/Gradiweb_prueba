@@ -1,0 +1,48 @@
+.imgPlaces{
+    margin-top: 12%;
+    height: 212px;
+    width: 200px;
+    border-radius: 30px;
+}
+
+.imgPlaces2{
+    height: 60px;
+    width: 180px;
+    border-radius: 20px;
+    background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Blue_Zurich_%2831895270053%29.jpg/1200px-Blue_Zurich_%2831895270053%29.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 20%;
+}
+
+.imgPlaces3{
+    height: 125px;
+    width: 180px;
+    border-radius: 30px;
+    background-image: url('https://www.lugaresdenieve.com/sites/default/files/zermatt_23.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    margin-top: 15%;
+}
+
+.containerPlaces{
+    display: flex;
+}
+
+.divPlaces{
+    margin-top: 10%;
+    margin-left: 25px;
+}
+
+.textPlaces{
+    margin-top: 20%;
+    height: 35px;
+    font-size: 20px;
+}
+
+.textReviews{
+    margin-top: 21%;
+    margin-left: 8%;
+}
