@@ -14,7 +14,7 @@ export const WeatherDay = ({ temperatura, ciudad, icono }) => {
                     <strong>{Math.round(temperatura)}</strong><sup><small>°C</small></sup>
                 </div>
                 <div className="divImagen">
-                    <p style={{margin:"5%"}}><img style={{height:"35px", width:"35px"}} src={`https://i.pinimg.com/originals/b1/66/7d/b1667dc3f20372394372a781999bd474.png`} />Bogotá D.C.</p>
+                    <p style={{margin:"5%"}}><img alt="" style={{height:"35px", width:"35px"}} src={`https://i.pinimg.com/originals/b1/66/7d/b1667dc3f20372394372a781999bd474.png`} />Bogotá D.C.</p>
                 </div>
             </div>
         </div>
